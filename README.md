@@ -1,6 +1,15 @@
-<h1 align="center">Hi 👋, I'm Miguel Paladines</h1>
+
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Miguel Paladines</h1></summary>
+  </ul>
+</div>
+
 <h3 align="center">
 "Success is not the key to happiness. Happiness is the key to success. If you love what you do, you will succeed."</h3>
+
 
 <p align="center">
  <img src="https://media0.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif?cid=ecf05e47sgsfliiqqs8d0gsuzzvjhkwynxic2tp4f969305m&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="!GOOD DAY!" width="500"> 
@@ -70,3 +79,6 @@
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nachobeta07&label=Profile%20views&color=0e75b6&style=flat" alt="nachobeta07" /> </p>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

@@ -26,6 +26,7 @@
 
 - 📑 CV 
     - **https://drive.google.com/file/d/1OPctUsZd7LdLgTLf91WoJqTIlxiZbrgV/view?usp=sharing**
+    - **https://1drv.ms/b/s!AuLCU8WQmnrYghnlQpKG6oGqUmU6?e=iQeKc5**
 
 - 📫 How to reach me 
     - **www.linkedin.com/in/miguel-paladines-936465277**
